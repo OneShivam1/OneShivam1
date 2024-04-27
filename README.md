@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java, Python.
 - 💞️ I’m looking to collaborate on any ABAP-related projects, as well as projects involving Java, Python, and AI.
   I'm eager to contribute my expertise in ABAP development while also exploring opportunities to expand my knowledge and skills in other programming languages and AI technologies
-- 📫 Reach me on shahshivam10@yahoo.com, for any new code or project opportunities
+- 📫 Reach me on shahshivam10@yahoo.com, for any new code or project proposals or contributions
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love driving and travelling
 
